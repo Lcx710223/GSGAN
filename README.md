@@ -5,7 +5,7 @@
 <a href="https://arxiv.org/abs/2406.02968" target="_blank">[Arxiv]</a>
 <!-- <a href="https://openreview.net/forum?id=U2WjB9xxZ9q" target="_blank">[OpenReview]</a> -->
 
-Official pytorch implementation for "Adversarial Generation of Hierarchical Gaussians for 3D Generative Model"
+Official pytorch implementation for "GSGAN: Adversarial Learning for Hierarchical Generation of 3D Gaussian Splats"
 
 ![Samples FFHQ-512 and AFHQ-512](assets/examples.jpg)
 
