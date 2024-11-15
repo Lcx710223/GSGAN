@@ -1,4 +1,4 @@
-# [NeurIPS 2024] Adversarial Generation of Hierarchical Gaussians for 3D Generative Model
+# [NeurIPS 2024] GSGAN: Adversarial Learning for Hierarchical Generation of 3D Gaussian Splats
 
 <a href="https://hse1032.github.io/gsgan" target="_blank">[Project page]</a>
 <a href="https://arxiv.org/abs/2406.02968" target="_blank">[Paper]</a>
