@@ -107,10 +107,9 @@ For any further questions, please contact hse1032@gmail.com
 ## Citation
 If our paper or codebase is useful in your research, please cite our paper!
 ```
-@article{hyun2024adversarial,
-  title={Adversarial Generation of Hierarchical Gaussians for 3D Generative Model},
+@inproceedings{hyungsgan,
+  title={GSGAN: Adversarial Learning for Hierarchical Generation of 3D Gaussian Splats},
   author={Hyun, Sangeek and Heo, Jae-Pil},
-  journal={arXiv preprint arXiv:2406.02968},
-  year={2024}
+  booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems}
 }
 ```
